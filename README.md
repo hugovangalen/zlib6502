@@ -1,7 +1,9 @@
 6502 inflate routine
 ====================
 
-This code is originally by Piotr Fusik. The license from the original source distribution is included below.
+This code is originally by Piotr Fusik, see https://github.com/pfusik/zlib6502
+
+The license from the original source distribution is included below.
 
 License
 -------
